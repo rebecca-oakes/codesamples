@@ -1,0 +1,16 @@
+RegNo|Subject|Marks
+101|Physics|85
+101|Maths|78
+101|Chemistry|45
+102|Chemistry|91
+102|Maths|65
+102|Physics|75
+103|Physics|55
+103|Chemistry|80
+103|Maths|100
+104|Maths|48
+104|Physics|67
+104|Chemistry|99
+105|Physics|99
+105|Maths|91
+105|Chemistry|95
